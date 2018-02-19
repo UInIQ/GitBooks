@@ -1,0 +1,2 @@
+~/repo/gitbooks/GitHub[[:space:]]Software/*.zip filter=lfs diff=lfs merge=lfs -text
+~/repo/gitbooks/GitHub[[:space:]]Software/*.dmg filter=lfs diff=lfs merge=lfs -text
